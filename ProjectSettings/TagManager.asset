@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Coin
+  - Ground
+  - Enemy
+  - Lives
+  - Turn
+  - Score
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 3782952269
+    locked: 0
+  - name: BG2
+    uniqueID: 1206717111
+    locked: 0
+  - name: BG3
+    uniqueID: 330818115
+    locked: 0
+  - name: BG4
+    uniqueID: 155874053
+    locked: 0
+  - name: BG5
+    uniqueID: 1395985559
+    locked: 0
